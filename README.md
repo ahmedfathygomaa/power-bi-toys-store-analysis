@@ -27,7 +27,7 @@ The dataset includes transactional sales data with:
 - Store and category filters for detailed analysis
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](screenshots/overview.png)
+![Dashboard Preview](Toys%20stor/screenshots/overview.png)
 
 ## 🔍 Key Insights
 - Toys and Art & Crafts generate the highest number of orders
